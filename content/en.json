@@ -1,0 +1,175 @@
+{
+  "languageName": "English",
+  "dateLabel": "Effective / last updated: 13 November 2026",
+  "home": "VORA legal information",
+  "languageLabel": "Language",
+  "contactLabel": "Contact",
+  "resourcesLabel": "Related policies and support",
+  "titles": {
+    "terms": "VORA Terms of Service",
+    "privacy": "VORA Privacy Policy"
+  },
+  "intro": {
+    "terms": "These terms explain the conditions for using VORA and purchasing its optional features. They do not replace the terms shown by Google Play at checkout or any mandatory consumer rights.",
+    "privacy": "This policy covers the VORA Android app and these policy pages. It distinguishes media processed on your device from information handled by advertising, purchase, support and hosting providers."
+  },
+  "resources": {
+    "play": "VORA on Google Play",
+    "refunds": "Google Play refund policy",
+    "google": "Google Privacy Policy",
+    "ads": "Google advertising privacy controls",
+    "mlkit": "ML Kit privacy information",
+    "github": "GitHub Privacy Statement"
+  },
+  "terms": [
+    {
+      "id": "provider",
+      "title": "Service provider",
+      "paragraphs": [
+        "VORA is provided by the developer listed as MINJIYUN on its Google Play listing. The listing contains the developer's published trader and contact details. Questions about the app or these terms can be sent to mgfrind@gmail.com."
+      ]
+    },
+    {
+      "id": "service",
+      "title": "Features and compatibility",
+      "paragraphs": [
+        "VORA provides photo and video capture, filters, photo editing and local media management. Experimental face AR and certain controls may require Premium and compatible hardware. Available features and output sizes depend on the app version, device, camera, GPU, codecs and permissions; a paid upgrade does not make unsupported hardware compatible."
+      ]
+    },
+    {
+      "id": "access",
+      "title": "Using the app",
+      "paragraphs": [
+        "Use the app lawfully and grant the permissions needed for the features you choose. You can decline or revoke permissions, but the affected features may not work. VORA does not require a separate VORA account; Google Play purchases use your Google account. Obtain a parent or guardian's approval where applicable law requires it."
+      ]
+    },
+    {
+      "id": "premium",
+      "title": "Premium purchases",
+      "paragraphs": [
+        "The current Premium upgrade is a one-time Google Play in-app purchase, not an automatically renewing subscription. The price, taxes and offer shown at checkout apply. Premium can remove ads and enable supported advanced controls and experimental features. Entitlement is checked through Google Play; after reinstalling, use the purchasing Google account and contact support if access is not restored."
+      ]
+    },
+    {
+      "id": "refunds",
+      "title": "Refunds and consumer rights",
+      "paragraphs": [
+        "Purchase, cancellation and refund requests are handled under the applicable Google Play policies and applicable law. Contact Google Play or the developer for a purchase problem. Nothing here removes mandatory rights concerning faulty digital content, refunds or withdrawal. Merely using the app does not by itself waive a statutory withdrawal right; any legally required separate consent must be obtained separately."
+      ]
+    },
+    {
+      "id": "media",
+      "title": "Your media and intellectual property",
+      "paragraphs": [
+        "You retain your rights in the photos, videos and other content you create or edit. VORA does not obtain ownership of that content through your use of the app. Obtain any permissions needed to record, edit or share another person's image, voice or copyrighted material. Keep independent backups of important media before editing or deleting it."
+      ]
+    },
+    {
+      "id": "conduct",
+      "title": "Permitted use",
+      "paragraphs": [
+        "Do not use VORA for unlawful recording, infringement of privacy or other rights, payment circumvention, or attacks on the app or its services. The app and its bundled artwork and software remain protected by their owners' rights and applicable licenses. Restrictions on software use do not override exceptions or rights granted by applicable law."
+      ]
+    },
+    {
+      "id": "availability",
+      "title": "Reliability and responsibility",
+      "paragraphs": [
+        "Recording, face effects and editing can fail because of device limits, storage, permissions or software faults. Face detection and AR are visual features, not identity verification or a guarantee that every face will be detected or concealed. The developer remains responsible as required by applicable law. These terms do not exclude liability for fraud, wilful misconduct, gross negligence or any liability or remedy that cannot lawfully be excluded."
+      ]
+    },
+    {
+      "id": "changes",
+      "title": "Updates and stopping use",
+      "paragraphs": [
+        "You may stop using and uninstall VORA at any time. Shared-gallery media, external copies and Google Play purchase records may remain. Features and terms may be updated; material changes will be communicated as required by law. Changes do not retrospectively remove mandatory rights or valid purchase rights. Stopping a feature or the app remains subject to applicable consumer remedies."
+      ]
+    },
+    {
+      "id": "privacy",
+      "title": "Privacy and questions",
+      "paragraphs": [
+        "The separate Privacy Policy explains local media and face processing, permissions, third-party services and data controls. Send questions or complaints to mgfrind@gmail.com. For purchase support, provide only the information needed to locate the purchase, such as a Google Play order reference; do not send full payment-card details. Applicable mandatory law and lawful dispute-resolution rights remain available to you."
+      ]
+    }
+  ],
+  "privacy": [
+    {
+      "id": "provider",
+      "title": "Who provides VORA",
+      "paragraphs": [
+        "The app is provided by the developer listed as MINJIYUN on Google Play. For questions or privacy requests concerning information handled by the developer, contact mgfrind@gmail.com. Google and GitHub also handle information through their services under their own privacy notices, linked below."
+      ]
+    },
+    {
+      "id": "media",
+      "title": "Photos, videos and audio",
+      "paragraphs": [
+        "Camera images, selected photos, recorded video and microphone audio are processed on the device to provide capture, filters, editing and saving. Microphone audio is used for recording when you enable sound and grant permission. VORA does not upload this media to a developer-operated server for these features. Sharing media to another app or enabling an external photo-backup service is a separate action governed by that service."
+      ]
+    },
+    {
+      "id": "faces",
+      "title": "Face effects and automatic face mosaic",
+      "paragraphs": [
+        "Face AR processes face landmarks and tracking information on the device to place visual effects. Automatic face mosaic also detects faces on the device. These features do not identify who a person is or build a developer-held face-identity database. Working face coordinates are used temporarily during processing; saved photos or videos can contain the visible effect or mosaic. VORA does not send face images or landmark results to a developer-operated server for these functions."
+      ]
+    },
+    {
+      "id": "permissions",
+      "title": "Permissions",
+      "paragraphs": [
+        "Camera permission supports capture, microphone permission supports optional video audio, and image/media access supports browsing and editing. On older supported Android versions, storage-read permission is used instead of the newer image permission. You can manage permissions in Android settings, which can disable dependent features. VORA does not request device-location permission, but an advertising provider may infer approximate location from an IP address."
+      ]
+    },
+    {
+      "id": "settings",
+      "title": "Settings, purchases and support messages",
+      "paragraphs": [
+        "The app stores preferences such as theme, camera and filter settings, recording options, the experimental AR switch and a Premium-status cache locally. Google Play processes payments and supplies purchase identifiers and status used to provide or restore Premium; VORA does not directly receive your full payment-card number. If you email support, the address and information you choose to send are handled to answer the request and meet applicable obligations. Avoid sending unnecessary sensitive information."
+      ]
+    },
+    {
+      "id": "providers",
+      "title": "Advertising and other providers",
+      "paragraphs": [
+        "Google AdMob may handle IP addresses, device or advertising identifiers, app/ad interactions and diagnostics for advertising, measurement and abuse prevention. UMP manages applicable privacy choices. ML Kit processes face-detection input and results on the device, but may contact Google for updates or compatibility information and send performance or usage metrics. Google Play handles purchase data. These policy pages are hosted on GitHub Pages, whose host may process request information such as IP addresses and browser details. VORA adds no analytics script to these pages. See the providers' policies below."
+      ]
+    },
+    {
+      "id": "choices",
+      "title": "Your choices and processing purposes",
+      "paragraphs": [
+        "Local processing provides the features you request. Purchase and support information is used to deliver the purchase, answer you and meet applicable legal obligations. Where consent is required for advertising or related processing, the relevant consent choices are presented; a device permission is not a blanket consent to unrelated processing. When available, use the app's Privacy Options to review choices. Android advertising settings and Google's controls provide further options. Premium suppresses app ads but does not remove purchase or support processing. Where applicable, legal bases are performance of the requested service or purchase, legitimate interests in answering and securing support, legal obligations, and consent where required."
+      ]
+    },
+    {
+      "id": "retention",
+      "title": "Storage, deletion and backups",
+      "paragraphs": [
+        "Saved photos and videos are stored in shared device media storage and may remain after uninstalling VORA. Delete them through the app or your gallery, and separately manage any shared or backed-up copies. Internal settings and caches can be removed using Android app-data controls or uninstalling; Android backup or device-transfer settings may restore some app data. Support information is retained only as needed for the request and applicable obligations. Google Play purchase records and third-party records follow those providers' retention rules."
+      ]
+    },
+    {
+      "id": "rights",
+      "title": "Privacy rights and international processing",
+      "paragraphs": [
+        "Depending on applicable law, you may request access, correction, deletion, restriction, objection, portability or withdrawal of consent, and complain to a competent privacy authority. Contact the developer for information the developer handles; media remaining only on your device cannot be retrieved or deleted remotely by the developer. Requests about Google or GitHub records may also need to be addressed to that provider. Their services can process information in other countries under their stated safeguards and policies."
+      ]
+    },
+    {
+      "id": "security",
+      "title": "Security and family enquiries",
+      "paragraphs": [
+        "VORA uses Android's permissions and app-storage protections for local information. Advertising, payment, email and hosting providers apply their own transport and security measures. No device or service can be guaranteed completely secure. Contact mgfrind@gmail.com if you suspect misuse of information or need help with a child's or guardian's privacy request; do not include unnecessary face images or other sensitive attachments."
+      ]
+    },
+    {
+      "id": "updates",
+      "title": "Changes to this policy",
+      "paragraphs": [
+        "This policy may be updated when app features, providers or legal requirements change. The date above identifies the current version. Material changes will be communicated, and any additional notice or consent will be provided, where required by applicable law. Contact mgfrind@gmail.com with questions."
+      ]
+    }
+  ]
+}
