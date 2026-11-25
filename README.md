@@ -33,3 +33,7 @@ VORA의 Google Play 등록정보와 앱 콘텐츠 선언에서 사용하는 정�
 기존 GitHub Pages의 게시 설정을 유지한다. 푸시 성공과 공개 페이지 갱신은 별도로 확인한다. 이 저장소 변경은 Play Console의 판매자 선언·데이터 보안 답변을 자동 제출하지 않는다.
 
 정책 초안과 실제 운영이 다르면 먼저 사실을 확인해 수정한다. 기능의 변경 예정 상태를 이미 출시된 기능이라고 단정하지 않는다.
+
+## iPhone 등록용 정책
+
+별도 `privacy-ios.html`과 ko/en/privacy-ios.html을 제공한다. 편집 원본은 content/ios-ko.json·ios-en.json이며 기존 렌더 명령이 iOS3개 페이지도 생성한다. iOS 미디어 로컬 사본/Photos·기기 내 얼굴 처리·StoreKit/AdMob/UMP 차이는 docs/review-ios-20261125.md를 따른다. 기존 Android7언어 URL/본문은 보존한다.

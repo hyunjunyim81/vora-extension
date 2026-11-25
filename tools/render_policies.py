@@ -103,6 +103,8 @@ def main():
     for kind in KINDS:
         (ROOT / f"{kind}.html").write_text(render(data, kind, "ko", bilingual=True), encoding="utf-8")
     print("Rendered 14 localized policies and 2 bilingual legacy URLs")
+    from render_ios_privacy import render_all
+    render_all()
 
 
 if __name__ == "__main__":
