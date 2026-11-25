@@ -17,7 +17,7 @@ def render_all():
   prefix='../' if '/' in name else '';value=data[lang]
   nav=f'<a href="{prefix}index.html">VORA</a> · <a lang="ko" href="{prefix}ko/privacy-ios.html">한국어</a> · <a lang="en" href="{prefix}en/privacy-ios.html">English</a>'
   content=section('ko',True)+section('en',True) if bilingual else section(lang,False)
-  html=f'''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{escape(value['title'])}</title><link rel="stylesheet" href="{prefix}styles.css"><style>h1,h2,h3,p{word-break:keep-all}</style></head><body><header><nav>{nav}</nav></header><main><h1>{escape(value['title'])}</h1><p><time datetime="2026-11-25">2026-11-25</time></p>{content}<h2>관련 정책 / Resources</h2><ul>{''.join(f'<li><a href="{escape(url)}">{escape(label)}</a></li>' for label,url in LINKS)}</ul><p><a href="mailto:mgfrind@gmail.com">mgfrind@gmail.com</a></p></main></body></html>'''
+  html=f'''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>{escape(value['title'])}</title><link rel="stylesheet" href="{prefix}styles.css"><style>h1,h2,h3,p{{word-break:keep-all}}</style></head><body><header><nav>{nav}</nav></header><main><h1>{escape(value['title'])}</h1><p><time datetime="2026-11-25">2026-11-25</time></p>{content}<h2>관련 정책 / Resources</h2><ul>{''.join(f'<li><a href="{escape(url)}">{escape(label)}</a></li>' for label,url in LINKS)}</ul><p><a href="mailto:mgfrind@gmail.com">mgfrind@gmail.com</a></p></main></body></html>'''
   (ROOT/name).write_text(html+'\n')
  print('Rendered 3 iOS privacy pages, 2 languages, 12 matching sections')
 if __name__=='__main__':render_all()
