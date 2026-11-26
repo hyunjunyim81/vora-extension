@@ -1,6 +1,6 @@
 {
   "languageName": "Deutsch",
-  "dateLabel": "Gültig / zuletzt aktualisiert: 13. November 2026",
+  "dateLabel": "Gültig / zuletzt aktualisiert: 26. November 2026",
   "home": "VORA Rechtliche Informationen",
   "languageLabel": "Sprache",
   "contactLabel": "Kontakt",
@@ -33,7 +33,7 @@
       "id": "service",
       "title": "Funktionen und Kompatibilität",
       "paragraphs": [
-        "VORA bietet Foto- und Videoaufnahmen, Filter, Fotobearbeitung und lokale Medienverwaltung. Experimentelle Gesichts-AR und bestimmte Einstellungen können Premium und geeignete Hardware erfordern. Funktionen und Ausgabegrößen hängen von App-Version, Gerät, Kamera, GPU, Codecs und Berechtigungen ab. Ein kostenpflichtiges Upgrade macht nicht unterstützte Hardware nicht kompatibel."
+        "VORA bietet Foto- und Videoaufnahmen, Filter, Fotobearbeitung und lokale Medienverwaltung. In Android 1.1.21 sind Gesichts-AR, grundlegende Aufnahmen und die Filterauswahl ohne Premium verfügbar; detaillierte Filtereinstellungen gehören zu Premium. Funktionen und Ausgabegrößen hängen von App-Version, Gerät, Kamera, GPU, Codecs und Berechtigungen ab. Ein kostenpflichtiges Upgrade macht nicht unterstützte Hardware nicht kompatibel."
       ]
     },
     {
@@ -47,7 +47,7 @@
       "id": "premium",
       "title": "Premium-Käufe",
       "paragraphs": [
-        "Das derzeitige Premium-Upgrade ist ein einmaliger In-App-Kauf bei Google Play und kein automatisch verlängertes Abonnement. Es gelten der beim Kauf angezeigte Preis, die Steuern und Angebotsbedingungen. Premium kann Werbung entfernen und unterstützte erweiterte Einstellungen sowie experimentelle Funktionen freischalten. Die Berechtigung wird über Google Play geprüft. Nutzen Sie nach einer Neuinstallation das beim Kauf verwendete Google-Konto und kontaktieren Sie den Support, falls der Zugang nicht wiederhergestellt wird."
+        "Das derzeitige Premium-Upgrade ist ein einmaliger In-App-Kauf bei Google Play und kein automatisch verlängertes Abonnement. Es gelten der beim Kauf angezeigte Preis, die Steuern und Angebotsbedingungen. Premium entfernt In-App-Werbung und schaltet detaillierte Filtereinstellungen frei. In Android 1.1.21 bleiben Gesichts-AR, grundlegende Aufnahmen und die Filterauswahl ohne Kauf verfügbar. Die Berechtigung wird über Google Play geprüft. Nutzen Sie nach einer Neuinstallation das beim Kauf verwendete Google-Konto und kontaktieren Sie den Support, falls der Zugang nicht wiederhergestellt wird."
       ]
     },
     {
@@ -126,7 +126,7 @@
       "id": "settings",
       "title": "Einstellungen, Käufe und Supportnachrichten",
       "paragraphs": [
-        "Die App speichert Einstellungen zu Design, Kamera, Filtern, Aufnahmeoptionen, experimenteller AR und einen Premium-Status-Cache lokal. Google Play verarbeitet Zahlungen und liefert Kaufkennungen und Status zur Freischaltung oder Wiederherstellung von Premium. VORA erhält nicht direkt Ihre vollständige Zahlungskartennummer. Bei Support-E-Mails werden Ihre Adresse und freiwillig übermittelten Angaben zur Beantwortung und Erfüllung geltender Pflichten verarbeitet. Senden Sie keine unnötigen sensiblen Informationen."
+        "Die App speichert Einstellungen zu Design, Kamera, Filtern, Aufnahmeoptionen, ausgewählten AR-Effekten und einen Premium-Status-Cache lokal. Google Play verarbeitet Zahlungen und liefert Kaufkennungen und Status zur Freischaltung oder Wiederherstellung von Premium. VORA erhält nicht direkt Ihre vollständige Zahlungskartennummer. Bei Support-E-Mails werden Ihre Adresse und freiwillig übermittelten Angaben zur Beantwortung und Erfüllung geltender Pflichten verarbeitet. Senden Sie keine unnötigen sensiblen Informationen."
       ]
     },
     {
