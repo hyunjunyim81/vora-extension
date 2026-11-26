@@ -1,6 +1,6 @@
 {
   "languageName": "English",
-  "dateLabel": "Effective / last updated: 13 November 2026",
+  "dateLabel": "Effective / last updated: 26 November 2026",
   "home": "VORA legal information",
   "languageLabel": "Language",
   "contactLabel": "Contact",
@@ -33,7 +33,7 @@
       "id": "service",
       "title": "Features and compatibility",
       "paragraphs": [
-        "VORA provides photo and video capture, filters, photo editing and local media management. Experimental face AR and certain controls may require Premium and compatible hardware. Available features and output sizes depend on the app version, device, camera, GPU, codecs and permissions; a paid upgrade does not make unsupported hardware compatible."
+        "VORA provides photo and video capture, filters, photo editing and local media management. In Android 1.1.21, face AR, basic capture and filter selection are available without Premium; detailed filter controls are a Premium benefit. Available features and output sizes depend on the app version, device, camera, GPU, codecs and permissions; a paid upgrade does not make unsupported hardware compatible."
       ]
     },
     {
@@ -47,7 +47,7 @@
       "id": "premium",
       "title": "Premium purchases",
       "paragraphs": [
-        "The current Premium upgrade is a one-time Google Play in-app purchase, not an automatically renewing subscription. The price, taxes and offer shown at checkout apply. Premium can remove ads and enable supported advanced controls and experimental features. Entitlement is checked through Google Play; after reinstalling, use the purchasing Google account and contact support if access is not restored."
+        "The current Premium upgrade is a one-time Google Play in-app purchase, not an automatically renewing subscription. The price, taxes and offer shown at checkout apply. Premium removes in-app ads and unlocks detailed filter controls. In Android 1.1.21, face AR, basic capture and filter selection remain available without a purchase. Entitlement is checked through Google Play; after reinstalling, use the purchasing Google account and contact support if access is not restored."
       ]
     },
     {
@@ -126,7 +126,7 @@
       "id": "settings",
       "title": "Settings, purchases and support messages",
       "paragraphs": [
-        "The app stores preferences such as theme, camera and filter settings, recording options, the experimental AR switch and a Premium-status cache locally. Google Play processes payments and supplies purchase identifiers and status used to provide or restore Premium; VORA does not directly receive your full payment-card number. If you email support, the address and information you choose to send are handled to answer the request and meet applicable obligations. Avoid sending unnecessary sensitive information."
+        "The app stores preferences such as theme, camera and filter settings, recording options, selected AR effect settings and a Premium-status cache locally. Google Play processes payments and supplies purchase identifiers and status used to provide or restore Premium; VORA does not directly receive your full payment-card number. If you email support, the address and information you choose to send are handled to answer the request and meet applicable obligations. Avoid sending unnecessary sensitive information."
       ]
     },
     {

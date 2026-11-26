@@ -80,7 +80,7 @@ def render(data, kind, lang, bilingual=False):
   <header><nav aria-label="{escape(value['home'])}">{' '.join(nav)}</nav></header>
   <main>
     <h1>{title}</h1>
-    <p class="updated"><time datetime="2026-11-13">{escape(value['dateLabel'])}</time></p>
+    <p class="updated"><time datetime="2026-11-26">{escape(value['dateLabel'])}</time></p>
     <nav class="language-picker" aria-label="{escape(value['languageLabel'])}">{languages}</nav>
     {content}
   </main>
